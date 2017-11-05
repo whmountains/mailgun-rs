@@ -1,6 +1,6 @@
 [package]
 name = "mailgun"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["whmountains <8680147+whmountains@users.noreply.github.com>"]
 license = "GPL-3.0"
 description = "Mailgun client"
