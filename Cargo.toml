@@ -1,6 +1,6 @@
 [package]
 authors = ["whmountains <8680147+whmountains@users.noreply.github.com>"]
-description = "Mailgun client"
+description = "Mailgun client (WIP)"
 license = "GPL-3.0"
 name = "mailgun"
 repository = "https://github.com/whmountains/mailgun-rs"
