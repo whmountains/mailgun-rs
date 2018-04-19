@@ -4,6 +4,6 @@ description = "Mailgun client"
 license = "GPL-3.0"
 name = "mailgun"
 repository = "https://github.com/whmountains/mailgun-rs"
-version = "0.1.1"
+version = "0.1.2"
 
 [dependencies]
